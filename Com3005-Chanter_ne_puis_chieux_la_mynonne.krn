@@ -6,10 +6,10 @@
 !!!SCA:	Com3005
 !!!voices:	3
 **kern	**kern	**kern
-*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Superius
 *I'B	*I'T	*I'S
+*staff3	*staff2	*staff1
 *clefF4	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1
@@ -159,7 +159,7 @@
 1D	.	1A
 .	2F#i/	.
 =28	=28	=28
-!LO:TX:Z=19:t=s.c.	!LO:TX:Z=19:t=s.c.	!LO:TX:Z=19:t=s.c.
+!LO:TX:Z=5:t=s.c.	!LO:TX:Z=5:t=s.c.	!LO:TX:Z=5:t=s.c.
 2.GG/	[0G	0G
 4AA/	.	.
 2BB-/	.	.
@@ -194,7 +194,7 @@
 2BB-/	2d\]	1f
 2D\	4c\	.
 .	4B-\	.
-1C	1e-	2.g/
+1C	1e-i	2.g/
 .	.	4a/
 =34	=34	=34
 2BB-/	2d\	2b-\
@@ -266,7 +266,7 @@
 .	1G	.
 4AA/	.	4c/
 4BB-/	.	4d/
-4C/	.	4e-i/
+4C/	.	4e/
 2D\	2F/	[2d/
 =45	=45	=45
 4BB-/	1B-	4d/]
@@ -296,11 +296,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!RDF**kern: V=start of tuplet marker
-!!!RDF**kern: Z=end of tuplet marker
 !!!ENC:	Megan K. Eagen 2013/12/01
 !!!END:	2013/12/01/
 !!!EED:	Jesse Rodin
-!!!EEV:	2013/12/30/
-!!!ONB:	Translated from MusicXML and edited on 2013/12/30/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v110,110,160c220
+!!!EEV:	2014/02/23/
+!!!ONB:	Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v85,85,100Q16
