@@ -1,4 +1,4 @@
-!!!COM:	Comp&egrave;re, Loyset
+!!!COM:	Compere, Loyset
 !!!CDT:	~1445///-1518/08/16
 !!!OTL:	Sourdes regretz avironez mon cueur
 !!!AGN:	Song; Chanson
@@ -178,9 +178,8 @@
 2C/	4c\	4a/
 .	4B-\	4g/
 =31	=31	=31
-!LO:TX:Z=30:t=s.c.	!LO:TX:Z=30:t=s.c.	!LO:TX:Z=30:t=s.c.
-!LO:TX:Z=16:t=shape&colon;long	!LO:TX:Z=16:t=shape&colon;long	!LO:TX:Z=16:t=shape&colon;long
-0D	0A	0f
+!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.
+00D	00A	00f
 =32	=32	=32
 0BB-	1r	1r
 .	1d	1b-
@@ -298,4 +297,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2014/02/23/
 !!!ONB:	Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v95,95,120Q16

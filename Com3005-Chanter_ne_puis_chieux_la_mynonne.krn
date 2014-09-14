@@ -1,4 +1,4 @@
-!!!COM:	Comp&egrave;re, Loyset
+!!!COM:	Compere, Loyset
 !!!CDT:	~1445///-1518/08/16
 !!!OTL:	Chanter ne puis chieux la mynonne
 !!!AGN:	Song; Chanson
@@ -159,7 +159,7 @@
 1D	.	1A
 .	2F#i/	.
 =28	=28	=28
-!LO:TX:Z=5:t=s.c.	!LO:TX:Z=5:t=s.c.	!LO:TX:Z=5:t=s.c.
+!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.
 2.GG/	[0G	0G
 4AA/	.	.
 2BB-/	.	.
@@ -301,4 +301,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2014/02/23/
 !!!ONB:	Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v95,95,120Q16

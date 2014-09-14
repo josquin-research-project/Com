@@ -1,4 +1,4 @@
-!!!COM:	Comp&egrave;re, Loyset
+!!!COM:	Compere, Loyset
 !!!CDT:	~1445///-1518/08/16
 !!!OTL:	Se pis ne vient d'amours je me contente
 !!!AGN:	Song; Chanson
@@ -115,9 +115,8 @@
 .	4B\	4g/
 .	4A/	4f/
 =21	=21	=21
-!LO:TX:Z=37:t=shape&colon;long	!LO:TX:Z=37:t=shape&colon;long	!LO:TX:Z=37:t=shape&colon;long
-!LO:TX:Z=24:t=s.c.	!LO:TX:Z=24:t=s.c.	!LO:TX:Z=24:t=s.c.
-0C	0c	0e
+!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.	!LO:TX:Z=8:t=s.c.
+00C	00c	00e
 =22	=22	=22
 1r	1r	1r
 1C	1c	1e
@@ -212,4 +211,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2014/02/23/
 !!!ONB:	Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v95,95,120Q16

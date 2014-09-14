@@ -1,4 +1,4 @@
-!!!COM:	Comp&egrave;re, Loyset
+!!!COM:	Compere, Loyset
 !!!CDT:	~1445///-1518/08/16
 !!!OTL:	Pour estre ou nombre des loyaulx
 !!!AGN:	Song; Chanson
@@ -114,7 +114,7 @@
 1C	1G	.
 .	.	2e/
 =14	=14	=14
-!	!	!LO:TX:Z=6:t=[s.c.]
+!	!	!LO:TX:Z=8:t=[s.c.]
 2r	0F	1f
 2.F\	.	.
 .	.	1r
@@ -236,4 +236,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2014/02/23/
 !!!ONB:	Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v95,95,120Q16
