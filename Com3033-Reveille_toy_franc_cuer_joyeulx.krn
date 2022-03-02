@@ -1,10 +1,10 @@
-!!!COM:	Compere, Loyset
-!!!CDT:	~1445///-1518/08/16
-!!!OTL:	Reveille toy franc cuer joyeulx
-!!!AGN:	Song; Chanson
-!!!SCT:	Com3033
-!!!SCA:	Com3033
-!!!voices:	3
+!!!COM: Compere, Loyset
+!!!CDT: ~1445///-1518/08/16
+!!!OTL: Reveille toy franc cuer joyeulx
+!!!AGN: Song; Chanson
+!!!SCT: Com3033
+!!!SCA: Com3033
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -148,9 +148,9 @@
 *-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Megan K. Eagen 2013/12/01
-!!!END:	2013/12/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/02/23/
-!!!ONB:	Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
+!!!ENC: Megan K. Eagen 2013/12/01
+!!!END: 2013/12/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/02/23/
+!!!ONB: Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v95,95,150Q16
