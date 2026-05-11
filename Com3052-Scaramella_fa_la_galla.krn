@@ -1,12 +1,12 @@
-!!!!SEGMENT: Com/Com3052-Scaramella_fa_la_galla.krn							
-!!!COM: Compere, Loyset							
-!!!CDT: ~1445///-1518/08/16							
-!!!OTL: Scaramella fa la galla							
-!!!AGN: Song; Chanson							
-!!!SCT: Com3052							
-!!!SCA: Com3052							
-!!!jrpid: Com3052							
-!!!voices: 4							
+!!!!SEGMENT: Com/Com3052-Scaramella_fa_la_galla.krn
+!!!COM: Compere, Loyset
+!!!CDT: ~1445///-1518/08/16
+!!!OTL: Scaramella fa la galla
+!!!AGN: Song; Chanson
+!!!SCT: Com3052
+!!!SCA: Com3052
+!!!jrpid: Com3052
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -131,10 +131,10 @@
 .	.	.	.	.	.	4g	-be-
 1GG	la	[1D	-bet-	1d	.	1g	-ron,
 =22	=22	=22	=22	=22	=22	=22	=22
-2.BB	com-	1D]	.	1d		2r	.
+2.BB	com-	1D]	.	1d	.	2r	.
 .	.	.	.	.	.	1f	la
 4BB	-be-	.	.	.	.	.	.
-1AA	-ron	1E	.	2.c		.	.
+1AA	-ron	1E	.	2.c	.	.	.
 .	.	.	.	.	.	2e	sti-
 .	.	.	.	4B	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23
@@ -253,11 +253,11 @@
 0.Dl	-ta.	0.Dl	-ta.	0.Al	-ta.	0.dl	-ta.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation							
-!!!RDF**kern: i=editorial accidental							
-!!!ENC: Megan K. Eagen 2013/11/28							
-!!!END: 2013/11/28/							
-!!!EED: Jesse Rodin							
-!!!EEV: 2014/02/23/							
-!!!ONB: Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp							
-!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Megan K. Eagen 2013/11/28
+!!!END: 2013/11/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/02/23/
+!!!ONB: Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16
