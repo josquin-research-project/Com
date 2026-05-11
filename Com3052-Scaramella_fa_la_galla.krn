@@ -72,18 +72,18 @@
 2F	scar-	0r	.	2.A	la	1f	scar-
 4E	.	.	.	.	.	.	.
 4D	.	.	.	4B	.	.	.
-2C	.	.	.	2c	sti-	2e	pa'e
-[2G	.	.	.	[2d	val-	[2d	la
+2C	-pa-e	.	.	2c	sti-	2e	pa'e
+[2G	la	.	.	[2d	val-	[2d	la
 =11	=11	=11	=11	=11	=11	=11	=11
 2G]	.	0r	.	4d]	.	2d]	.
 .	.	.	.	4c	.	.	.
 4F	.	.	.	1c	.	2e	.
 4E	.	.	.	.	.	.	.
-1D	.	.	.	.	.	1f	sti-
+1D	sti-	.	.	.	.	1f	sti-
 .	.	.	.	2B	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12
-1C	.	1G	con	0c	-la	1e	-va-
-2C	pa	1G	la	.	.	4e	.
+1C	-val-	1G	con	0c	-la	1e	-va-
+2C	-la	1G	la	.	.	4e	.
 .	.	.	.	.	.	4d	.
 2C	la	.	.	.	.	4c	.
 .	.	.	.	.	.	4B	.
@@ -124,27 +124,27 @@
 =20	=20	=20	=20	=20	=20	=20	=20
 0D	-ron,	0F	be-	2.d	com-	1r	.
 .	.	.	.	4d	-be-	.	.
-.	.	.	.	1d	-ron,	1f	La
+.	.	.	.	1d	-ron	1f	La
 =21	=21	=21	=21	=21	=21	=21	=21
-1r	.	1E	-rom-	2B	la	2.g	com-
+1r	.	1E	-rom-	2B	be-	2.g	com-
 .	.	.	.	2c	.	.	.
 .	.	.	.	.	.	4g	-be-
 1GG	la	[1D	-bet-	1d	.	1g	-ron,
 =22	=22	=22	=22	=22	=22	=22	=22
-2.BB	com-	1D]	.	1d	.	2r	.
+2.BB	com-	1D]	.	1d	-rom-	2r	.
 .	.	.	.	.	.	1f	la
 4BB	-be-	.	.	.	.	.	.
-1AA	-ron	1E	.	2.c	.	.	.
+1AA	-ron	1E	.	2.c	-bet-	.	.
 .	.	.	.	.	.	2e	sti-
 .	.	.	.	4B	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23
 2D	.	1F	.	2A	.	1d	-val-
 2D	be-	.	.	2B	.	.	.
-2C	.	1E	-ta,	1c	.	1e	.
+2C	.	1E	-ta,	1c	-ta	1e	.
 2C	-rom-	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
 1D	-bet-	0r	.	2A	.	1f	.
-.	.	.	.	2B	.	.	.
+.	.	.	.	2B	la	.	.
 1AA	-ta,	.	.	2.c	com-	2e	-la
 .	.	.	.	.	.	2f	la
 .	.	.	.	4c	-be-	.	.
@@ -260,4 +260,4 @@
 !!!EED: Jesse Rodin
 !!!EEV: 2014/02/23/
 !!!ONB: Translated from MusicXML and edited on 2014/02/23/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16
